@@ -1,0 +1,9 @@
+Package: qecol
+Type: Package
+Title: qecol
+Version: 1.0
+Date: 2015-05-01
+Author: Duncan Golicher
+Maintainer: <dgolicher@gmail.com>
+Description: Collecting some functions for the course
+License: 
